@@ -8,5 +8,7 @@
     <string name="title_section3">Novetats</string>
     <string name="title_section4">Forum</string>
     <string name="title_section5">Guia</string>
+    <string name="search">search</string>
+    <string name="adjuntar">adjuntar</string>
 
 </resources>

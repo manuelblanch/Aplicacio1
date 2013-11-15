@@ -77,7 +77,7 @@ public class MainActivity extends FragmentActivity implements
 					.setTabListener(this));
 		}
 	}
-
+	
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the menu; this adds items to the action bar if it is present.
@@ -127,8 +127,8 @@ public class MainActivity extends FragmentActivity implements
 
 		@Override
 		public int getCount() {
-			// Show 3 total pages.
-			return 3;
+			// Show 5 total pages.
+			return 5;
 		}
 
 		@Override
