@@ -10,5 +10,10 @@
     <string name="title_section5">Guia</string>
     <string name="search">search</string>
     <string name="adjuntar">adjuntar</string>
+    <string name="horizontal">horizontal</string>
+    <string name="vertical">vertical</string>
+    <string name="left">left</string>
+    <string name="center">center</string>
+    <string name="right">right</string>
 
 </resources>
