@@ -14,15 +14,6 @@
         android:layout_height="wrap_content" />
 
     <Button
-        android:id="@+id/button1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignRight="@+id/editText2"
-        android:layout_marginBottom="116dp"
-        android:text="Cancelar" />
-
-    <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -60,5 +51,23 @@
         android:ems="10"
         android:inputType="textPassword"
         android:text="Password" />
+
+    <Button
+        android:id="@+id/btn_notification"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editText2"
+        android:layout_centerVertical="true"
+        android:padding="10dp"
+        android:text="@string/text_btn" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/btn_notification"
+        android:layout_below="@+id/btn_notification"
+        android:layout_marginTop="14dp"
+        android:text="Cancelar" />
 
 </RelativeLayout>

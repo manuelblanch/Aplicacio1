@@ -15,5 +15,6 @@
     <string name="left">left</string>
     <string name="center">center</string>
     <string name="right">right</string>
+    <string name="text_btn">notificacio</string>
 
 </resources>
